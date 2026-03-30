@@ -2,7 +2,7 @@
 
 **🧠 Caso de estudio: **Dashboard de Ventas y Cumplimiento de Metas****
 
-🔹 Descripción del proyecto
+🔹 **Descripción del proyecto **
 
 Desarrollé un dashboard interactivo en Power BI para analizar el desempeño de ventas en comparación con metas definidas, incorporando análisis por región, producto y evolución temporal.
 
@@ -45,8 +45,8 @@ Elegí este proyecto porque representa de forma clara mi capacidad para trabajar
 
 ## 📊 Dashboard principal
 
-![Dashboard](images/dashboard-general.png)
+![Dashboard](imagenes/dashboard-general.png)
 
 ## 📊 Análisis por producto
 
-![Producto](images/analisis-producto.png)
+![Producto](imagenes/analisis-producto.png)
