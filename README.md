@@ -1,4 +1,4 @@
-# dashboard-ventas-powerbi
+# Dashboard Ventas en PowerBi
 
 **🧠 Caso de estudio: **Dashboard de Ventas y Cumplimiento de Metas****
 
