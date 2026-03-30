@@ -2,11 +2,11 @@
 
 **🧠 Caso de estudio: **Dashboard de Ventas y Cumplimiento de Metas****
 
-🔹 **Descripción del proyecto **
+🔹 **Descripción del proyecto**
 
 Desarrollé un dashboard interactivo en Power BI para analizar el desempeño de ventas en comparación con metas definidas, incorporando análisis por región, producto y evolución temporal.
 
-🔹** Desafío principal**
+🔹**Desafío principal**
 
 El principal desafío fue construir un modelo de datos correcto que permitiera relacionar ventas con metas sin generar errores en los cálculos, especialmente en el indicador de cumplimiento, el cual inicialmente presentaba inconsistencias.
 
